@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    background-image: url("Images/street3.jpg");
+    background-repeat: repeat-x;
+}
+
+}
+.raceArea {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+}
+
+#racer1 {
+    padding-left: 80px;
+    position: absolute;
+    bottom: 800px;
+}
+
+#racer2 {
+    padding-left: 80px;
+    position: absolute;
+    bottom: 725px;
+}
+
+#racer3 {
+    padding-left: 80px;
+    position: absolute;
+    bottom: 650px;
+}
+
+#stoplight {
+    position: absolute;
+    top: 5px;
+    padding-left: 80px;
+}
+
+#stoplight2 {
+    position: absolute;
+    top: 5px;
+    right: 80px;
+}
